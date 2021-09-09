@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Aleksandr Daraev",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "backgroundVideo": "images/background.mp4",
+    "bio": "Experienced full stack developer interested in building well-constructed, useful and scalable websites and applications. Interested in continuation of learning and cooperation with excellent people.",
+    "contactmessage": "Feel free to reach me out at",
+    "email": "alex.daraev@gmail.com",
+    "phone": "347-984-2545",
+    "address": {
+      "street": "",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "zip": "07302"
+    },
+    "website": "online-resume-aleks.heroku.com",
+    "resumedownload": "https://docs.google.com/document/d/1CGTKrWg9ucllVeBnj1_BHs7XQaHVGcY5/edit?usp=sharing&ouid=108274882864531828853&rtpof=true&sd=true",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aleks-d",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/buuza",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My experience scale(rough estimate):",
+    "education": [
+      {
+        "school": "Buryat State University",
+        "degree": "BS Physics & Computer Science",
+        "graduated": "May 2010",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "New Jersey City University",
+        "title": "Software Engineer",
+        "years": "Apr 2018 - Present",
+        "description": "Lead developer for njcu.edu website"
+      },
+      {
+        "company": "The National Society of Leadership and Success",
+        "title": "Software Engineer",
+        "years": "Feb 2016 - Apr 2018",
+        "description": "Drupal and Front-end developer"
+      },
+      {
+        "company": "Teamamerica",
+        "title": "LAMP stack developer",
+        "years": "Jan 2013 - Feb 2016",
+        "description": "LAMP development, Front-end, API development and integration"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
+        "name": "LAMP",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB&nodeJS",
+        "level": "50%"
+      },
+      {
+        "name": "html & css",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Drupal",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "NJCU",
+        "category": "Public university in Jersey City, New Jersey",
+        "image": "njcu.jpg",
+        "url": "https://www.njcu.edu"
+      },
+      {
+        "title": "The NSLS",
+        "category": "Nation's largest leadership honor society",
+        "image": "nsls.jpg",
+        "url": "https://nsls.org"
+      },
+      {
+        "title": "Teamamerica",
+        "category": "B2B Full Service Receptive Tour Operator",
+        "image": "teamamericany.jpg",
+        "url": "https://teamamericany.com"
+      }
+    ]
+  }
+}
