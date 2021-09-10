@@ -43,21 +43,21 @@
     "work": [
       {
         "company": "New Jersey City University",
-        "title": "Software Engineer",
+        "title": "Senior Software Engineer",
         "years": "Apr 2018 - Present",
         "description": "Lead developer for njcu.edu website"
       },
       {
         "company": "The National Society of Leadership and Success",
-        "title": "Software Engineer",
+        "title": "Senior Software Engineer",
         "years": "Feb 2016 - Apr 2018",
         "description": "Drupal and Front-end developer"
       },
       {
         "company": "Teamamerica",
-        "title": "LAMP stack developer",
+        "title": "Software Engineer",
         "years": "Jan 2013 - Feb 2016",
-        "description": "LAMP development, Front-end, API development and integration"
+        "description": "LAMP stack development, Front-end, API development and integration"
       }
 
     ],
