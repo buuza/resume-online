@@ -28,6 +28,7 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li><a href="https://github.com/buuza/resume-online" target="_blank">View the source code</a></li>
          </ul>
 
       </nav>
